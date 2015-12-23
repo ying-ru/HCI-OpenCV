@@ -1,11 +1,13 @@
 # HCI-OpenCV
-NCCUCS - HCI
+HCI
 
 OpenCV(背景相減應用)
 
 # 開發環境
 Mac OS
+
 Xcode (C++)
+
 OpenCV 3.0
 
 License
